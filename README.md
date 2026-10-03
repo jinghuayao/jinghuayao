@@ -7,7 +7,7 @@ I build AI systems across language, vision, and time series, bringing mathematic
 
 Email: jinghuayao AT gmail DOT com
 
-[Personal website](https://jinghuayao.github.io) · [Publications](https://jinghuayao.github.io/publications.html) · [Résumé](https://jinghuayao.github.io/assets/Jinghua_Yao_Resume_Public.pdf)
+[Personal website](https://jinghuayao.github.io) · [Publications](https://jinghuayao.github.io/publications.html) · [Résumé](https://jinghuayao.github.io/resume.html)
 
 ## What I work on
 
