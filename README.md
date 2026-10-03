@@ -1,7 +1,7 @@
 # Jinghua Yao, Ph.D.
 
 **Principal Applied Scientist · Generative AI & Machine Learning**  
-San Jose, California
+San Francisco Bay Area, California
 
 I build AI systems across language, vision, and time series, bringing mathematical rigor to practical machine learning. My background spans Microsoft, Apple, Samsung, and academic research in nonlinear analysis and partial differential equations.
 
