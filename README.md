@@ -5,7 +5,7 @@ San Francisco Bay Area, California
 
 I build AI systems across language, vision, and time series, bringing mathematical rigor to practical machine learning. My background spans Microsoft, Apple, Samsung, and academic research in nonlinear analysis and partial differential equations.
 
-[Email](mailto:yaojhyao@gmail.com)
+Email: jinghuayao AT gmail DOT com
 
 [Personal website](https://jinghuayao.github.io) · [Publications](https://jinghuayao.github.io/publications.html) · [Résumé](https://jinghuayao.github.io/assets/Jinghua_Yao_Resume_Public.pdf)
 
@@ -35,7 +35,7 @@ At Apple, I was a main contributor to a series of **32+ one-hour ML/AI lectures*
 
 ## Connect
 
-Interested in applied science and AI/ML opportunities, research collaboration, and thoughtful technical conversations. Reach me at **[yaojhyao@gmail.com](mailto:yaojhyao@gmail.com)**.
+Interested in applied science and AI/ML opportunities, research collaboration, and thoughtful technical conversations. Reach me at **jinghuayao AT gmail DOT com**.
 
 ---
 
